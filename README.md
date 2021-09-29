@@ -1,8 +1,8 @@
 # Artificial-Intelligence-Task-Project-in-Campus
 
 1.	State Search Algorithm
-	Dynamic Programming
-	A* Search (Manhattan Distance)
+    - Dynamic Programming
+    - A* Search (Manhattan Distance)
 2.	Introduction to Classification (Ruspini dataset)
 o	K- Nearest Neighbours (python)
 3.	Study Case Decision Tree
